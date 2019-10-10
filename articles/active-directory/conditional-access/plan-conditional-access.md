@@ -25,7 +25,7 @@ Think of Conditional Access as a framework that allows you to control access to 
 
 If additional features are required, you might also need to get related licenses. For example, while Conditional Access is Azure AD Premium P1 feature, identity protection requires an Azure AD Premium P2 license.
 
-There are two types of Conditional Access policies: baseline and standard. A [baseline policy](baseline-protection.md) is a predefined Conditional Access policy. The goal of these policies is to make sure that you have at least the baseline level of security enabled. Baseline policies. Baseline policies are available in all editions of Azure AD, and they provide only limited customization options. If a scenario requires more flexibility, disable the baseline policy, and implement your requirements in a custom standard policy.
+There are two types of Conditional Access policies: baseline and standard. A [baseline policy](baseline-protection.md) is a predefined Conditional Access policy. The goal of these policies is to make sure that you have at least the baseline level of security enabled. Baseline policies are available in all editions of Azure AD, and they provide only limited customization options. If a scenario requires more flexibility, disable the baseline policy, and implement your requirements in a custom standard policy.
 
 In a standard Conditional Access policy, you can customize all settings to adjust the policy to your business requirements. Standard policies require an Azure AD Premium P1 license.
 
