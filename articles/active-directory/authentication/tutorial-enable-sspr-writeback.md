@@ -130,6 +130,7 @@ To enable password writeback in SSPR, complete the following steps:
 1. Check the option for **Write back passwords to your on-premises directory** .
 1. (optional) If Azure AD Connect provisioning agents are detected, you can additionally check the option for **Write back passwords with Azure AD Connect cloud sync**.   
 3. Check the option for **Allow users to unlock accounts without resetting their password** to *Yes*.
+![SSPR Description](https://user-images.githubusercontent.com/36242375/212606792-86458c34-5783-4c33-aa40-e79791a9bb4c.png)
 
     ![Configure Azure AD Connect for password writeback](media/tutorial-enable-sspr-writeback/enable-password-writeback.png)
 
